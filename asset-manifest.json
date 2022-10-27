@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89f1cadb.css",
+    "main.js": "/static/js/main.1a527cdf.js",
+    "static/media/slider2.png": "/static/media/slider2.aad6c213c7ac74beabd2.png",
+    "static/media/slider1.png": "/static/media/slider1.4711fc03b3bf8eb8da71.png",
+    "static/media/slider3.png": "/static/media/slider3.9ed94150afbd5a57a853.png",
+    "static/media/about-us.png": "/static/media/about-us.460ca38ac68f9523fb23.png",
+    "static/media/food1.png": "/static/media/food1.69ea91eb59497747395d.png",
+    "static/media/food6.png": "/static/media/food6.cc197d6d63d94bd77b23.png",
+    "static/media/food2.png": "/static/media/food2.5c0052001f330b0ab25b.png",
+    "static/media/food4.png": "/static/media/food4.28d677583d9a1993e232.png",
+    "static/media/food3.png": "/static/media/food3.a0dd1610babfcd74f57c.png",
+    "static/media/item-7.jpeg": "/static/media/item-7.2b2d85320c08729e6a58.jpeg",
+    "static/media/item-2.jpeg": "/static/media/item-2.f0b6b25efcbd39c641cb.jpeg",
+    "static/media/food5.png": "/static/media/food5.e8576d48bd921e87ae12.png",
+    "static/media/item-8.jpeg": "/static/media/item-8.77daac2abe411b747cb4.jpeg",
+    "static/media/item-10.jpeg": "/static/media/item-10.1132c139a0a94008a325.jpeg",
+    "static/media/item-4.jpeg": "/static/media/item-4.1246e0c14d2695db1ae5.jpeg",
+    "static/media/item-1.jpeg": "/static/media/item-1.59f884831772e6397275.jpeg",
+    "static/media/item-6.jpeg": "/static/media/item-6.71751fefb2ee55699e44.jpeg",
+    "static/media/item-3.jpeg": "/static/media/item-3.41dbf97f88e1e73a7474.jpeg",
+    "static/media/item-5.jpeg": "/static/media/item-5.39ce038c4ceb093d7c66.jpeg",
+    "index.html": "/index.html",
+    "main.89f1cadb.css.map": "/static/css/main.89f1cadb.css.map",
+    "main.1a527cdf.js.map": "/static/js/main.1a527cdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f1cadb.css",
+    "static/js/main.1a527cdf.js"
+  ]
+}
